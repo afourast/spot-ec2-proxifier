@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ec2_funcs import *
 
 # Entry
